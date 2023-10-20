@@ -1,0 +1,17 @@
+/home/coder/project/workspace/BzLayer/obj/Debug/net6.0/BzLayer.csproj.AssemblyReference.cache
+/home/coder/project/workspace/BzLayer/obj/Debug/net6.0/BzLayer.GeneratedMSBuildEditorConfig.editorconfig
+/home/coder/project/workspace/BzLayer/obj/Debug/net6.0/BzLayer.AssemblyInfoInputs.cache
+/home/coder/project/workspace/BzLayer/obj/Debug/net6.0/BzLayer.AssemblyInfo.cs
+/home/coder/project/workspace/BzLayer/obj/Debug/net6.0/BzLayer.csproj.CoreCompileInputs.cache
+/home/coder/project/workspace/BzLayer/bin/Debug/net6.0/BzLayer.deps.json
+/home/coder/project/workspace/BzLayer/bin/Debug/net6.0/BzLayer.dll
+/home/coder/project/workspace/BzLayer/bin/Debug/net6.0/BzLayer.pdb
+/home/coder/project/workspace/BzLayer/bin/Debug/net6.0/DataLayer.dll
+/home/coder/project/workspace/BzLayer/bin/Debug/net6.0/Entity.dll
+/home/coder/project/workspace/BzLayer/bin/Debug/net6.0/DataLayer.pdb
+/home/coder/project/workspace/BzLayer/bin/Debug/net6.0/Entity.pdb
+/home/coder/project/workspace/BzLayer/obj/Debug/net6.0/BzLayer.csproj.CopyComplete
+/home/coder/project/workspace/BzLayer/obj/Debug/net6.0/BzLayer.dll
+/home/coder/project/workspace/BzLayer/obj/Debug/net6.0/refint/BzLayer.dll
+/home/coder/project/workspace/BzLayer/obj/Debug/net6.0/BzLayer.pdb
+/home/coder/project/workspace/BzLayer/obj/Debug/net6.0/ref/BzLayer.dll

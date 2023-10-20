@@ -1,0 +1,15 @@
+/home/coder/project/workspace/DataLayer/obj/Debug/net6.0/DataLayer.csproj.AssemblyReference.cache
+/home/coder/project/workspace/DataLayer/obj/Debug/net6.0/DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+/home/coder/project/workspace/DataLayer/obj/Debug/net6.0/DataLayer.AssemblyInfoInputs.cache
+/home/coder/project/workspace/DataLayer/obj/Debug/net6.0/DataLayer.AssemblyInfo.cs
+/home/coder/project/workspace/DataLayer/obj/Debug/net6.0/DataLayer.csproj.CoreCompileInputs.cache
+/home/coder/project/workspace/DataLayer/bin/Debug/net6.0/DataLayer.deps.json
+/home/coder/project/workspace/DataLayer/bin/Debug/net6.0/DataLayer.dll
+/home/coder/project/workspace/DataLayer/bin/Debug/net6.0/DataLayer.pdb
+/home/coder/project/workspace/DataLayer/bin/Debug/net6.0/Entity.dll
+/home/coder/project/workspace/DataLayer/bin/Debug/net6.0/Entity.pdb
+/home/coder/project/workspace/DataLayer/obj/Debug/net6.0/DataLayer.csproj.CopyComplete
+/home/coder/project/workspace/DataLayer/obj/Debug/net6.0/DataLayer.dll
+/home/coder/project/workspace/DataLayer/obj/Debug/net6.0/refint/DataLayer.dll
+/home/coder/project/workspace/DataLayer/obj/Debug/net6.0/DataLayer.pdb
+/home/coder/project/workspace/DataLayer/obj/Debug/net6.0/ref/DataLayer.dll

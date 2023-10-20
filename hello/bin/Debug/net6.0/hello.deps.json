@@ -1,0 +1,64 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "hello/1.0.0": {
+        "dependencies": {
+          "BzLayer": "1.0.0",
+          "Entity": "1.0.0"
+        },
+        "runtime": {
+          "hello.dll": {}
+        }
+      },
+      "BzLayer/1.0.0": {
+        "dependencies": {
+          "DataLayer": "1.0.0",
+          "Entity": "1.0.0"
+        },
+        "runtime": {
+          "BzLayer.dll": {}
+        }
+      },
+      "DataLayer/1.0.0": {
+        "dependencies": {
+          "Entity": "1.0.0"
+        },
+        "runtime": {
+          "DataLayer.dll": {}
+        }
+      },
+      "Entity/1.0.0": {
+        "runtime": {
+          "Entity.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "hello/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BzLayer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DataLayer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Entity/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
